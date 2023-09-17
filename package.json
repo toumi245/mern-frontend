@@ -1,6 +1,6 @@
 {
   "name": "mern",
-  "proxy": "https://mern-commerce-app-9q3n.onrender.com/",
+  "proxy": "https://mern-commerce-app-9q3n.onrender.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
