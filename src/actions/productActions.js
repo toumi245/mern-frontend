@@ -34,7 +34,7 @@ export const listProductDetails = (id) => {
     return async (dispatch) => {
       try {
         dispatch({ type: PRODUCT_DETAILS_REQUEST });
-        const { data } = await axios.get(` https://mern-back-9i1l.onrender.com/api/products/${id}`);
+        const { data } = await axios.get(`https://mern-back-75q8.onrender.com/api/products/${id}`);
         dispatch({
           type: PRODUCT_DETAILS_SUCCESS,
           payload: data,
