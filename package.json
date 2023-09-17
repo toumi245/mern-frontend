@@ -1,6 +1,6 @@
 {
   "name": "mern",
-  "proxy": "https://backend2-mnfa.onrender.com",
+  "proxy": "https://mern-back-75q8.onrender.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
